@@ -1,0 +1,44 @@
+# --- Secrets & Environment Variables ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+secrets.json
+
+# --- Blockchain / Hardhat / Foundry ---
+node_modules/
+artifacts/
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+.openzeppelin/
+.prev-contracts/
+deployments/
+
+# --- Python / AI Agent ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+.pytest_cache/
+.python-version
+
+# --- Frontend (Next.js/React) ---
+.next/
+out/
+build/
+.vercel
+.cache
+*.tsbuildinfo
+
+# --- OS / Misc ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
