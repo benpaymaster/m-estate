@@ -92,4 +92,4 @@ OPENAI_API_KEY=your_api_key
 
 Built for the **2026 Bitcoin Finance Hackathon**.
 
-*"The bank is the Bitcoin blockchain. The manager is an AI agent. The future is M-eSTATE."*
+*"The bank is the Bitcoin blockchain. The manager is an AI agent. The future is M-eSTATE."*# m-estate
